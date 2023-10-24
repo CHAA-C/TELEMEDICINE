@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515844581959",
+    "project_id": "chaa-c",
+    "storage_bucket": "chaa-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515844581959:android:89a2e73d4776ce75869f62",
+        "android_client_info": {
+          "package_name": "com.example.analzedpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdvPwMavjzcNUEhPrXQYTr_jfBbRwXQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515844581959:android:7cd5f2ec3d77aad0869f62",
+        "android_client_info": {
+          "package_name": "com.example.telemedicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdvPwMavjzcNUEhPrXQYTr_jfBbRwXQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
